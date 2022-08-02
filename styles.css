@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(92, 156, 156);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+  color: orange;
+  font-weight: 200;
+  font-size: 42px;
+}
+
+/* kita akan menambahkan select berdaasrkan attribute class */
+.standOut {
+  color:aqua;
+  font-weight: 600;
+}
+
+/* kita akan select element berdasarkan id */
+#ignore{
+  font-size: 18px;
+  color: lightgray;
+}
